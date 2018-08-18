@@ -98,6 +98,7 @@ Disjoined Chords are chords where the sustains of the notes in the chord vary.
 ## Patterns
 
 ## Star Power
+Star Power (SP) helps the player score more points by doubling the current multiplier. SP is obtained in phrases; each note of the phrase must be hit to obtain. A successful phrase raises the SP Meter by 1/4. If a sustain note is in a phrase, whammying will gradually increase the meter as well. To activate SP, the meter must be at least 1/2 full. A 1/2 filled bar will last for 4 measures of music. 
 
 > If you've played GH for long enough you should kind of be able to tell where a starpower should be. As a general guideline, starpower phrases shouldn't be closer than 4 measures and should probably be at least eight measures apart. Thirty seconds should be about the longest amount of time between starpower phrases with fifteen seconds being the average distance between starpower phrases.
 > 
