@@ -109,3 +109,19 @@ Disjoined Chords are chords where the sustains of the notes in the chord vary.
 > A loose guideline is that starpower phrases are often near the beginnings or ends of "sections" (eg right before or after a song is about to change up). There is usually an "omf" to the song where a starpower phrase ends
 > 
 > ExileLord
+
+## "Do"s and "Don't"s
+**Do:**
+* Have accurate tempo mapping
+* “Correct” note placement (i.e., higher notes are higher frets, chords are chords, etc.)
+* Star Power, practice sections, appropriate leading silence
+* Tap notes where applicable
+* Relatively complete metadata, (i.e., nothing glaringly missing)
+* Bearable audio, quality-wise
+**Don’t:**
+* Charting of vocals or drums*
+* Abuse of extended sustains that don't make sense
+* Use song offset
+* Usage of 4 or 5-note chords*
+* No abuse of GRO, GYO, or GBO chords*
+
