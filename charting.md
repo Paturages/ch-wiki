@@ -124,3 +124,17 @@ Disjoined Chords are chords where the sustains of the notes in the chord vary.
 * Usage of 4 or 5-note chords*
 * No abuse of GRO, GYO, or GBO chords*
 
+## Tempo Mapping
+## Sections
+## Lower Difficulties
+## Lyrics
+## Drums
+### 4-Lane
+### 5-Lane
+## Techniques
+### Looping
+# What goes with a chart?
+## File Formats
+## Song.ini Metadata
+## Album Art
+## How to Package
