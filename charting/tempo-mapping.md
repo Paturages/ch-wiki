@@ -14,7 +14,8 @@ it's always 4/4
 
 ## Tips
 
-stop fucking mapping the main beat on the counterbeat, when the drums play a crash it doesn't fucking always mean it's the main fucking beat
+* stop fucking mapping the main beat on the counterbeat, when the drums play a crash it doesn't fucking always mean it's the main fucking beat
+* use the fucking metronome, I don't know how people tempo map without metronomes
 
 ## Special cases
 
