@@ -111,14 +111,18 @@ Disjoined Chords are chords where the sustains of the notes in the chord vary.
 > ExileLord
 
 ## "Do"s and "Don't"s
+
 **Do:**
+
 * Have accurate tempo mapping
 * “Correct” note placement (i.e., higher notes are higher frets, chords are chords, etc.)
 * Star Power, practice sections, appropriate leading silence
 * Tap notes where applicable
 * Relatively complete metadata, (i.e., nothing glaringly missing)
 * Bearable audio, quality-wise
+
 **Don’t:**
+
 * Charting of vocals or drums*
 * Abuse of extended sustains that don't make sense
 * Use song offset
