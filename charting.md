@@ -12,9 +12,7 @@ In Clone Hero, there are 5 different **coloured** frets (from left to right): gr
 There are 3 different **types** of notes: Strum, HOPO, and Tap.
 
 When charting, the program will automatically determine Strums and HOPOs, but this can always be overwritten.
-
 ### Strums
-
 **Strums** are the most common note found in charts. To play a Strum, hold down the corresponding fret and press the strum bar. 
 ![Strum](/uploads/notes/strum.png "Strum"){.align-right}
 Strums have a black ring with a white top. The rest of the gem is colored with the corresponding fret color. 
@@ -23,9 +21,7 @@ Strums are used in charts when the notes are “new,” as there is a noticeable
 As a general rule for guitar, Strums are used when the actual pick hits the strings. 
 
 As a general rule for other instruments, Strums are used when a new note appears, but it is independent and has attack.
-
 ### HOPOs
-
 **HOPO** stands for “Hammer-On, Pull-Off.” It’s meaning relates to the guitar. When a player strums a note on a guitar, then changes the fret on that string, a Hammer-On or Pull-Off occurs. 
 ![Hopo](/uploads/notes/hopo.png "Hopo"){.align-right}
 HOPOs have a glowing white top. The rest of the gem is colored with the corresponding fret color. 
@@ -42,8 +38,6 @@ HOPOs are used in charts when the notes are in rapid succession.
 As a general rule for guitar, HOPOs are used when the player changes the fret on that string. 
 
 As a general rule for other instruments, HOPOs are used when the notes may glide around, or have softer attacks than other notes. 
-
-
 ### Taps
 
 Tap notes are another type of note. To play a Tap, press the fret or pull-off from another fret. 
