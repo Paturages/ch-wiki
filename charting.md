@@ -27,7 +27,7 @@ As a general rule for other instruments, Strums are used when a new note appears
 ### HOPOs
 
 **HOPO** stands for “Hammer-On, Pull-Off.” It’s meaning relates to the guitar. When a player strums a note on a guitar, then changes the fret on that string, a Hammer-On or Pull-Off occurs. 
-
+![Hopo](/uploads/notes/hopo.png "Hopo"){.align-right}
 HOPOs have a glowing white top. The rest of the gem is colored with the corresponding fret color. 
 
 HOPOs are used when notes come in rapid succession, and are always have different set of notes than the ones before. To play a HOPO, you can do so like Strums. But, HOPOs can be played differently.
