@@ -52,7 +52,7 @@ Open notes are the lowest note. To play an Open Strum, simply press the strum ba
 Open Strums are a solid long purple bar. Open HOPOs have a glowing edge. 	
 ![Open Strum](/uploads/notes/open-strum.png "Open Strum"){.align-right}
 
-As a general rule for guitar, Opens are used when there is an obvious open string, or a very low note compared to others.
+As a general rule for guitar, Opens are used when there is an obvious open string, a very low note compared to others, or a dead note.
 
 As a general rule for other instruments, Opens are used when there is a very low note compared to others.
 ![Open Hopo](/uploads/notes/open-hopo.png "Open HOPO"){.align-right}
