@@ -1,4 +1,6 @@
-# Welcome to the Clone Hero Wiki!
+<!-- TITLE: Welcome to the Clone Hero Wiki! -->
+<!-- SUBTITLE: don't get lost man -->
+
 something about the clone hero wiki I'm too lazy to copy paste shit
 
 # Charting
