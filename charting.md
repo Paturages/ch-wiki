@@ -66,17 +66,17 @@ As a general rule for other instruments, Opens are used when there is a very low
 
 Avoid using open notes as a 6th fret below Green. To combat this, try looping.
 
-### Chords
+## Chords
 
 Chords are when two notes of different pitches are played together. Generally, only 2 and 3 note chords are used (the chord consists of two or three notes). 
 
-#### 2 Note Chords
+### 2 Note Chords
 
 For guitar, 2 note chords are used when a power chord is played, or an interval is played.
 
 For other instruments, they’re used when two notes are played together.
 
-#### 3 Note Chords
+### 3 Note Chords
 
 For guitar, 3 note chords are used when a chord is played.
 
@@ -84,25 +84,25 @@ For other instruments, they’re used when three notes are played together.
 
 3 Note Chords should have 0 or 1 spaces in between the notes. This means that GBO and GRO chords should not be used outside of extreme exceptions.
 
-### Sustains
+## Sustains
 
 Sustains are when notes are held down for longer than the attack.
 
-#### Sustain Gap
+### Sustain Gap
 
 Sustain Gap is where sustains are “trimmed” before the next start (there is a gap between the sustain and the next note). 
 
-#### Extended Sustains
+### Extended Sustains
 
 Extended Sustains are sustains that extend past the start of new notes.
 
-#### Disjointed Chords
+### Disjointed Chords
 
 Disjoined Chords are chords where the sustains of the notes in the chord vary.
 
-### Patterns
+## Patterns
 
-### Star Power
+## Star Power
 
 > If you've played GH for long enough you should kind of be able to tell where a starpower should be. As a general guideline, starpower phrases shouldn't be closer than 4 measures and should probably be at least eight measures apart. Thirty seconds should be about the longest amount of time between starpower phrases with fifteen seconds being the average distance between starpower phrases.
 > 
