@@ -1,13 +1,16 @@
 <!-- TITLE: Moonscraper -->
 <!-- SUBTITLE: A quick summary of Moonscraper -->
 
-# Controls
-
-bang your head on the keyboard it will make notes... maybe
-[See more](moonscraper/controls)
-
-# idk man
-
-## but you can do fancy subsections
-
-### and even more
+## What’s on the screen
+## Tools
+## Menus
+## Shortcuts
+## Understanding the highway
+## Tempo Mapping
+## Fundamentals
+### Placing Notes
+### Forced Notes / Tap Notes
+### Open Notes
+### Star Power
+### Sections
+### Lyrics
