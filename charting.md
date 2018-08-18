@@ -48,7 +48,6 @@ Taps have are slightly darker and transparent.
 Taps are used in charts when the notes are from different instruments, or when the notes are played with two hands on a real guitar.
 
 As a general rule, Tap are used when the instrument changes, or when a real guitarist would play frets with their strumming hand. 
-
 ### Opens
 Open notes are the lowest note. To play an Open Strum, simply press the strum bar with no frets pressed down. To play an Open HOPO with the previous note hit, just release all frets.
 
@@ -60,43 +59,27 @@ As a general rule for guitar, Opens are used when there is an obvious open strin
 As a general rule for other instruments, Opens are used when there is a very low note compared to others.
 ![Open Hopo](/uploads/notes/open-hopo.png "Open HOPO"){.align-right}
 Avoid using open notes as a 6th fret below Green. To combat this, try looping.
-
 ## Chords
-
 Chords are when two notes of different pitches are played together. Generally, only 2 and 3 note chords are used (the chord consists of two or three notes). 
-
 ### 2 Note Chords
-
 For guitar, 2 note chords are used when a power chord is played, or an interval is played.
 
 For other instruments, they’re used when two notes are played together.
-
 ### 3 Note Chords
-
 For guitar, 3 note chords are used when a chord is played.
 
 For other instruments, they’re used when three notes are played together.
 
 3 Note Chords should have 0 or 1 spaces in between the notes. This means that GBO and GRO chords should not be used outside of extreme exceptions.
-
 ## Sustains
-
 Sustains are when notes are held down for longer than the attack.
-
 ### Sustain Gap
-
 Sustain Gap is where sustains are “trimmed” before the next start (there is a gap between the sustain and the next note). 
-
 ### Extended Sustains
-
 Extended Sustains are sustains that extend past the start of new notes.
-
 ### Disjointed Chords
-
 Disjoined Chords are chords where the sustains of the notes in the chord vary.
-
 ## Patterns
-
 ## Star Power
 Star Power (SP) helps the player score more points by doubling the current multiplier. SP is obtained in phrases; each note of the phrase must be hit to obtain. A successful phrase raises the SP Meter by 1/4. If a sustain note is in a phrase, whammying will gradually increase the meter as well. To activate SP, the meter must be at least 1/2 full. A 1/2 filled bar will last for 4 measures of music. 
 
@@ -105,9 +88,7 @@ Star Power (SP) helps the player score more points by doubling the current multi
 > A loose guideline is that starpower phrases are often near the beginnings or ends of "sections" (eg right before or after a song is about to change up). There is usually an "omf" to the song where a starpower phrase ends
 > 
 > ExileLord
-
 ## "Do"s and "Don't"s
-
 **Do:**
 
 * Have accurate tempo mapping
@@ -124,18 +105,56 @@ Star Power (SP) helps the player score more points by doubling the current multi
 * Use song offset
 * Usage of 4 or 5-note chords*
 * No abuse of GRO, GYO, or GBO chords*
-
 ## Tempo Mapping
+Tempo Mapping is the process of matching the beat lines in a chart to varying tempo in the music. 
 ## Sections
+Sections allow the player to practice certain portions of a chart. 
 ## Lower Difficulties
+Lower Difficulties allow players of different skill levels to play at their level.
 ## Lyrics
+Lyrics show in-game and are timed to the music, generally down to the syllable.
 ## Drums
+[whole drum charting tut here]
 ### 4-Lane
 ### 5-Lane
 ## Techniques
 ### Looping
+Looping is a technique to chart scales that are more than 5 notes (the 5 frets).
 # What goes with a chart?
 ## File Formats
-## Song.ini Metadata
+Accepted chart formats:
+* .chart
+* .mid
+Accepted audio formats:
+* .ogg
+* .mp3
+## song.ini Metadata
+The song.ini provides metadata for the song, including name and artist. An example song.ini looks like:
+
+```text
+[song]
+name=Never Look Back
+artist=Andrew Huang
+album=Love & Desolation
+genre=Pop
+year=2012
+diff_band=-1
+diff_guitar=2
+diff_rhythm=4
+diff_bass=0
+diff_drums=-1
+diff_keys=0
+diff_guitarghl=-1
+diff_bassghl=-1
+preview_start_time=86016
+icon=wyskoj
+album_track=3
+playlist_track=3
+video_start_time=0
+charter=wyskoj
+delay=0
+song_length=276462
+```
+
 ## Album Art
 ## How to Package
