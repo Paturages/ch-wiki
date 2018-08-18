@@ -11,7 +11,7 @@ Here is the link to the latest download of the game, v.21.6, as well as a video 
 
 Its main features are: 
  * Mac Version
- * Support for Disjointed Chords
+ * Support for Disjoint Chords
  * Added another Star for a total of 7
  * MIDIFix is no longer needed
  * yrics now display ingame
