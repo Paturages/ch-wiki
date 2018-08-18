@@ -2,7 +2,6 @@
 <!-- SUBTITLE: This is all the theory that goes behind charting. -->
 
 This tutorial is designed to help you become a better charter, even if you have zero experience. The tutorial will cover all the concepts that need to be known to become a success charter.
-
 # Fundamentals
 ## Notes
 The notes, also called gems, are the most important element in a chart. They make up what the player is going to be playing in the game. The notes should correspond to the music. 
@@ -39,9 +38,8 @@ As a general rule for guitar, HOPOs are used when the player changes the fret on
 
 As a general rule for other instruments, HOPOs are used when the notes may glide around, or have softer attacks than other notes. 
 ### Taps
-
 Tap notes are another type of note. To play a Tap, press the fret or pull-off from another fret. 
-
+![Tap](/uploads/notes/tap.png "Tap"){.align-right}
 Taps have are slightly darker and transparent.
 
 Taps are used in charts when the notes are from different instruments, or when the notes are played with two hands on a real guitar.
@@ -49,7 +47,6 @@ Taps are used in charts when the notes are from different instruments, or when t
 As a general rule, Tap are used when the instrument changes, or when a real guitarist would play frets with their strumming hand. 
 
 ### Opens
-
 Open notes are the lowest note. To play an Open Strum, simply press the strum bar with no frets pressed down. To play an Open HOPO with the previous note hit, just release all frets.
 
 Open Strums are a solid long purple bar. Open HOPOs have a glowing edge. 		
