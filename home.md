@@ -7,6 +7,7 @@ Clone Hero is exactly as its name implies. It is a Guitar Hero Clone, much like 
 
 # Current Release
 Here is the link to the latest download of the game, v.21.6, as well as a video showing off the update.
+
 [video](https://www.youtube.com/embed/Fcbj13P5oaw?rel=0&wmode=opaque&allowfullscreen=1&enablejsapi=1&origin=https%3A%2F%2Fclone-hero.wikia.com&widgetid=1){.youtube}
 
 Its main features are: 
