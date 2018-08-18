@@ -14,9 +14,9 @@ There are 3 different **types** of notes: Strum, HOPO, and Tap.
 When charting, the program will automatically determine Strums and HOPOs, but this can always be overwritten.
 
 ### Strums
-![Strum](/uploads/notes/strum.png "Strum"){.align-right}
-**Strums** are the most common note found in charts. To play a Strum, hold down the corresponding fret and press the strum bar. 
 
+**Strums** are the most common note found in charts. To play a Strum, hold down the corresponding fret and press the strum bar. 
+![Strum](/uploads/notes/strum.png "Strum"){.align-right}
 Strums have a black ring with a white top. The rest of the gem is colored with the corresponding fret color. 
 
 Strums are used in charts when the notes are “new,” as there is a noticeable new attack.
