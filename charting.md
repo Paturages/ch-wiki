@@ -2,6 +2,9 @@
 <!-- SUBTITLE: This is all the theory that goes behind charting. -->
 
 This tutorial is designed to help you become a better charter, even if you have zero experience. The tutorial will cover all the concepts that need to be known to become a success charter.
+
+# What is a chart?
+A chart, also called a map, is a sequence of notes for rhythm based games that correspond to the music or audio that it's charting. Charting is essential to all games that require specific gameplay to the played music.
 # Fundamentals
 ## Notes
 The notes, also called gems, are the most important element in a chart. They make up what the player is going to be playing in the game. The notes should correspond to the music. 
