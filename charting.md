@@ -32,3 +32,80 @@ HOPOs have a glowing white top. The rest of the gem is colored with the correspo
 
 HOPOs are used when notes come in rapid succession, and are always have different set of notes than the ones before. To play a HOPO, you can do so like Strums. But, HOPOs can be played differently.
 
+If you successfully “hit” the note before:
+* All HOPOs are played by pressing the colored fret (no strumming).
+* Hammer-Ons can be played by pressing the fret, while keeping the previous fret held down, or not.
+* Pull-Offs can be played by releasing the higher fret and having the HOPO fret held down when released (this is also called Anchoring).
+
+HOPOs are used in charts when the notes are in rapid succession.
+
+As a general rule for guitar, HOPOs are used when the player changes the fret on that string. 
+
+As a general rule for other instruments, HOPOs are used when the notes may glide around, or have softer attacks than other notes. 
+
+
+### Taps
+
+Tap notes are another type of note. To play a Tap, press the fret or pull-off from another fret. 
+
+Taps have are slightly darker and transparent.
+
+Taps are used in charts when the notes are from different instruments, or when the notes are played with two hands on a real guitar.
+
+As a general rule, Tap are used when the instrument changes, or when a real guitarist would play frets with their strumming hand. 
+
+### Opens
+
+Open notes are the lowest note. To play an Open Strum, simply press the strum bar with no frets pressed down. To play an Open HOPO with the previous note hit, just release all frets.
+
+Open Strums are a solid long purple bar. Open HOPOs have a glowing edge. 		
+
+As a general rule for guitar, Opens are used when there is an obvious open string, or a very low note compared to others.
+
+As a general rule for other instruments, Opens are used when there is a very low note compared to others.
+
+Avoid using open notes as a 6th fret below Green. To combat this, try looping.
+
+### Chords
+
+Chords are when two notes of different pitches are played together. Generally, only 2 and 3 note chords are used (the chord consists of two or three notes). 
+
+#### 2 Note Chords
+
+For guitar, 2 note chords are used when a power chord is played, or an interval is played.
+
+For other instruments, they’re used when two notes are played together.
+
+#### 3 Note Chords
+
+For guitar, 3 note chords are used when a chord is played.
+
+For other instruments, they’re used when three notes are played together.
+
+3 Note Chords should have 0 or 1 spaces in between the notes. This means that GBO and GRO chords should not be used outside of extreme exceptions.
+
+### Sustains
+
+Sustains are when notes are held down for longer than the attack.
+
+#### Sustain Gap
+
+Sustain Gap is where sustains are “trimmed” before the next start (there is a gap between the sustain and the next note). 
+
+#### Extended Sustains
+
+Extended Sustains are sustains that extend past the start of new notes.
+
+#### Disjointed Chords
+
+Disjoined Chords are chords where the sustains of the notes in the chord vary.
+
+### Patterns
+
+### Star Power
+
+> If you've played GH for long enough you should kind of be able to tell where a starpower should be. As a general guideline, starpower phrases shouldn't be closer than 4 measures and should probably be at least eight measures apart. Thirty seconds should be about the longest amount of time between starpower phrases with fifteen seconds being the average distance between starpower phrases.
+> 
+> A loose guideline is that starpower phrases are often near the beginnings or ends of "sections" (eg right before or after a song is about to change up). There is usually an "omf" to the song where a starpower phrase ends
+> 
+> ExileLord
