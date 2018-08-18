@@ -169,6 +169,19 @@ diff_drums_real
 diff_guitar_real_22
 diff_bass_real_22
 ```
+#### Additional Information
+```
+delay
+playlist_track
+multiplier_note
+preview_start_time
+icon
+album_track
+video_start_time
+sysex_open_bass
+five_lane_drums
+drum_fallback_blue
+```
 #### Example
 An example song.ini looks like:
 
@@ -196,6 +209,5 @@ charter=wyskoj
 delay=0
 song_length=276462
 ```
-
 ## Album Art
 ## How to Package
