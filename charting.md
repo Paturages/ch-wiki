@@ -131,7 +131,9 @@ Accepted audio formats:
 ## song.ini Metadata
 The song.ini provides metadata for the song, including name and artist. 
 #### Required Field
-```name```
+```
+name
+```
 #### Suggested Fields
 ```
 album
