@@ -131,12 +131,14 @@ Accepted audio formats:
 ## song.ini Metadata
 The song.ini provides metadata for the song, including name and artist. 
 #### Required Field
-* `name`
+```name```
 #### Suggested Fields
-* Album
-* Genre
-* Year
-* Charter
+```
+album
+genre
+year
+charter
+```
 #### Instrument Difficulties
 Difficulties are set on a range from 0 to 6.
 > 0 - Very easy, almost definitely a sightread FC for any Expert players (ex. Closer, Monsoon, How You Remind Me)
@@ -146,24 +148,25 @@ Difficulties are set on a range from 0 to 6.
 > 4 - Consistently tricky throughout, easy to miss if you lose focus (Monsters, La Bamba, Bat Country)
 > 5 - Would be in or close to the final tier for most GH/RB games (Cult of Personality, Overkill, Burn)
 > 6 - DragonForce-levels of difficult or harder, would be un-FC'able for 99% of players (One, Satch Boogie, Black Widow of La Porte)
-
-* diff_guitar
-* diff_bass
-* diff_guitar_coop 
-* diff_rhythm 
-* diff_drums
-* diff_vocals
-* diff_keys 
-* diff_dance
-* diff_band
-* diff_guitarghl
-* diff_bassghl
-* diff_guitar_real
-* diff_bass_real 
-* diff_keys_real
-* diff_drums_real
-* diff_guitar_real_22
-* diff_bass_real_22
+```
+diff_guitar
+diff_bass
+diff_guitar_coop 
+diff_rhythm 
+diff_drums
+diff_vocals
+diff_keys 
+diff_dance
+diff_band
+diff_guitarghl
+diff_bassghl
+diff_guitar_real
+diff_bass_real 
+diff_keys_real
+diff_drums_real
+diff_guitar_real_22
+diff_bass_real_22
+```
 #### Example
 An example song.ini looks like:
 
