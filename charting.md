@@ -146,7 +146,8 @@ Accepted album art formats:
 ## song.ini Metadata
 The song.ini provides metadata for the song, including name and artist.
 
-The first line of the file should be `[song]`. Each parameter has its own line. To set a parameter, put it in this format (in this example, the name is set): `name = Soulless 4` (spaces optional)
+The first line of the file should be `[song]`. Each parameter has its own line. To set a parameter, put it in this format (in this example, the name is set):
+`name = Soulless 4` (spaces optional)
 #### Required Field
 ```
 name
