@@ -78,7 +78,7 @@ Sustain Gap is where sustains are “trimmed” before the next start (there is 
 ### Extended Sustains
 Extended Sustains are sustains that extend past the start of new notes.
 ### Disjointed Chords
-Disjoined Chords are chords where the sustains of the notes in the chord vary.
+Disjointed Chords are chords where the sustains of the notes in the chord vary in length.
 ## Patterns
 ## Star Power
 Star Power (SP) helps the player score more points by doubling the current multiplier. SP is obtained in phrases; each note of the phrase must be hit to obtain. A successful phrase raises the SP Meter by 1/4. If a sustain note is in a phrase, whammying will gradually increase the meter as well. To activate SP, the meter must be at least 1/2 full. A 1/2 filled bar will last for 4 measures of music. 
@@ -112,15 +112,17 @@ Sections allow the player to practice certain portions of a chart.
 ## Lower Difficulties
 Lower Difficulties allow players of different skill levels to play at their level.
 ## Lyrics
-Lyrics show in-game and are timed to the music, generally down to the syllable.
+Lyrics show in-game and are timed to the music, ideally timed to the syllable.
 ## Drums
-[whole drum charting tut here]
 ### 4-Lane
 ### 5-Lane
 ## Techniques
 ### Looping
 Looping is a technique to chart scales that are more than 5 notes (the 5 frets).
+
+For example, in an 8-note scale, a common loop is `G R Y B R Y B O`.
 # What goes with a chart?
+Along with your chart (`notes.chart / notes.mid`) and audio (`song.mp3 / song.ogg`), you should also have a metadata (`song.ini`) and album art (`album.png / album. jpg`). 
 ## File Formats
 Accepted chart formats:
 * .chart
@@ -128,8 +130,13 @@ Accepted chart formats:
 Accepted audio formats:
 * .ogg
 * .mp3
+Accepted album art formats:
+* .png
+* .jpg
 ## song.ini Metadata
-The song.ini provides metadata for the song, including name and artist. 
+The song.ini provides metadata for the song, including name and artist.
+
+The first line of the file should be `[song]`. Each parameter has its own line. To set a parameter, put it in this format (in this example, the name is set): `name = Soulless 4` (spaces optional)
 #### Required Field
 ```
 name
@@ -210,4 +217,8 @@ delay=0
 song_length=276462
 ```
 ## Album Art
+Album art should be either a PNG or JPEG and named `album`. The picture will be rescaled to 1:1, so try to put in a square image to prevent squishing.
 ## How to Package
+When you feel your chart is ready to be published, it is important to package it correctly. Following these steps ensures a good package.
+1. Ensure the following files are in an appropriately named (the song name) folder: `notes.chart/mid`, `song.ogg/mp3`, `album.png/jpg`, and `song.ini`.
+2. In your archiving software (7zip, WinRAR), archive **the folder and not just the files**. This is so that when people download your song, they don't have to make an extra step to put it in a folder. *The .7z format provides the highest level of compression and can only be made in 7Zip, although it can be extracted in WinRAR.*
