@@ -7,6 +7,10 @@ To get started, first [download the game](http://clonehero.net/download). You wi
 
 Clone Hero comes with one song to play. To get more, you can download more songs on [this spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0). Any archives you download will need to be extracted (like extracting the game). Songs go into the `Songs` folder. For better organization, song folders can be put into other folders to create a hierarchy.
 
-Start the game, and now you will need to map your controller. Each controller is different, so refer to the [Controllers](/help/controllers) page for your controller.
+Start the game, and now you may need to map your controller. Each controller is different, so refer to the [Controllers](/help/controllers) page for your controller.
+
+**If you need to map your controller:**
+When in-game, press `Space`. This will open your controls screen. In the top left, you will see `Controller: [your controller]`. If not, press the `Calibrate` button and follow instructions.
+To map the buttons, click the corresponding rectangle under the `Controller` column and follow the instructions.
 
 Once your guitar is configured, you can begin play.
