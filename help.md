@@ -3,10 +3,6 @@
 [Getting Started](/getting-started)
 A quick few tips to get you up and running.
 
-
------
-
-
 [Tutorials](/tutorials)
 Basic how-to's on the game, and things associated with it.
 
