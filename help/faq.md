@@ -24,17 +24,18 @@ A: Backgrounds are whatever resolution you are playing in and highways will work
 A: Here is a [Discord link](https://discord.me/clonehero).
 
 **Q: How can I keep up to date with Clone Hero outside of Discord?**
-A: This Wikia will be updated alongside the game but we also have, and suggest following, our official Twitter account.
+A: This wiki will be updated alongside the game but we also have, and suggest following, our [official Twitter account](https://twitter.com/CloneHero).
 
 # "Something's Wrong" FAQs
 **Q: I imported a GH3 non-SGH custom, why isn't it showing up?**
 A: You need to make sure that the chart is named "notes.chart" and that the audio is named "song.ogg" or "song.mp3". You can also use multiple audio stems with a GH3 custom, just name them whatever that instrument is like "guitar.mp3" or "vocals.ogg".
 
 **Q: I've got Phase Shift songs that aren't showing up, what's wrong with them?**
-A: Some Phase Shift note charts are badly formatted, thus Clone Hero can't read them properly. There's a tool Srylain made called Midifix that can try to fix them, but it is only able to fix midi files, not .chart files, and sometimes it can't fix some. Just download it, extract all the files, and then drag and drop drop your Songs folder ONTO the MIDIFix.exe.
+**This does not apply to v21.6**
+A: Some Phase Shift note charts are badly formatted, thus Clone Hero can't read them properly. There's a tool Srylain made called [Midifix](https://goo.gl/xFt3ab) that can try to fix them, but it is only able to fix midi files, not .chart files, and sometimes it can't fix some. Just download it, extract all the files, and then drag and drop drop your Songs folder ONTO the MIDIFix.exe.
 
 **Q: I used Midifix but my badsongs.txt still says the midi's are broken.**
-A: The only other solution is to download Editor on Fire on the charting page, import the midi file (F6) and then re-save the song. I don't really know why this helps or fixes the files, but it does. Do make sure after you fixed it, to go into the folder, and delete the extra midi files added to the folder that aren't just "notes.mid". The saving process will also add a few extra files, but all you really need is notes.chart, the song/guitar.ogg, song.ini file and album.png.
+A: The only other solution is to download [Editor on Fire](http://ignition.customsforge.com/eof), import the midi file (F6) and then re-save the song. I don't really know why this helps or fixes the files, but it does. Do make sure after you fixed it, to go into the folder, and delete the extra midi files added to the folder that aren't just "notes.mid". The saving process will also add a few extra files, but all you really need is notes.chart, the song/guitar.ogg, song.ini file and album.png.
 
 **Q: Why isn’t my GH:L guitar connecting/Why can’t I strum and hold down notes at the same time?**
 A: In order to use the Guitar Hero: Live guitar, you MUST have:
@@ -43,7 +44,7 @@ A: In order to use the Guitar Hero: Live guitar, you MUST have:
 * Windows 10, or Linux. (In order to use it on Win 7 you need Win 10 drivers, which can blue screen your computer)
 
 **Q: Why can’t I press certain keys when using a keyboard/ some keys can't be held at the same time?**
-A: The reason you can't press more than a few keys and have them register in-game is called "Keyboard Ghosting." The only fixes are either rebinding keys in hopes you keyboard will register them, or buying an anti-ghosting keyboard. Learn more from this video.
+A: The reason you can't press more than a few keys and have them register in-game is called "Keyboard Ghosting." The only fixes are either rebinding keys in hopes you keyboard will register them, or buying an anti-ghosting keyboard. Learn more from [this video](https://youtu.be/kOkV9BalNcw).
 
 **Q: Why can't I assign my controller to Player 2/3/4 when Player 1 is using a keyboard?**
 A: The first controller that's picked up by the game will always be assigned to the Player that also has access to the keyboard. In the controls screen, remove the controller from Player 1 and then assign it to another one of the players that doesn't have a controller assigned.
