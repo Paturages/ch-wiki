@@ -3,6 +3,9 @@
 [Getting Started](/help/getting-started)
 A quick few tips to get you up and running.
 
+[FAQ](/help/faq)
+Your frequently asked questions answered.
+
 [Tutorials](/help/tutorials)
 Basic how-to's on the game, and things associated with it.
 
