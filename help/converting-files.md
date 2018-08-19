@@ -8,4 +8,4 @@ Use [this tool](https://mega.nz/#!sIZGFSBD!P25YMcnPY9vkYpQfnTlaPe0PtnP9KK0DrTol7
 [video](https://youtu.be/G-r2s-etFQQ){.youtube}
 # Converting from Phase Shift/Frets on Fire (Normal Files)
 **This does not apply to v21.6.**
-Some Phase Shift/Frets on Fire note charts are badly formatted, thus Clone Hero can't read them properly. There's a tool Srylain made called [Midifix](https://goo.gl/xFt3ab) that can try to fix them, but it is only able to fix midi files, not .chart files, and sometimes it can't fix some. Just download it, extract all the files, and then drag and drop your Songs folder ***ONTO*** the MIDIFix.exe.
+Some Phase Shift/Frets on Fire note charts are badly formatted, thus Clone Hero can't read them properly. There's a tool Srylain made called [Midifix](https://goo.gl/xFt3ab) that can try to fix them, but it is only able to fix midi files, not .chart files, and sometimes it can't fix some. Just download it, extract all the files, and then drag and drop your Songs folder __***ONTO***__ the MIDIFix.exe.
