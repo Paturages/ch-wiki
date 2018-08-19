@@ -1,5 +1,5 @@
-<!-- TITLE: MoonScraper -->
-<!-- SUBTITLE: How to chart in  MoonScraper -->
+<!-- TITLE: Moonscraper -->
+<!-- SUBTITLE: How to chart in  Moonscraper -->
 
 ## What’s on the screen
 ## Tools
