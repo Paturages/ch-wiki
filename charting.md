@@ -109,8 +109,18 @@ Star Power (SP) helps the player score more points by doubling the current multi
 Tempo Mapping is the process of matching the beat lines in a chart to varying tempo in the music. 
 ## Sections
 Sections allow the player to practice certain portions of a chart. 
-## Lower Difficulties
-Lower Difficulties allow players of different skill levels to play at their level.
+## Difficulties
+Difficulties allow players of different skill levels to play at their level.
+
+A good way to chart lower difficulties is to copy the expert to the hard and simplify. Then copy down again. This way, no difficulty should (ideally) be harder than the difficulty above it.
+### Expert
+Expert Difficulty is the hardest, and is not undercharted to make it easier to play. It uses all 5 frets + Opens to play.
+### Hard
+Hard Difficulty is easier to play than expert. Rhythms are simplified, and some sections are recharted to make it easier to play. Some harder to hear notes are removed, and articulations and special ornaments are removed. 3 note chords become 2 note chords, and some quick chords (of any kind) become single notes. Some extended sustains become non-sustains. It uses all 5 frets + Opens to play.
+### Medium
+Medium is the second easiest to play. Rhythms are even more simplified, and there are generally only 1/2 the notes from expert. Chords are simplified, and some quick chords (of any kind) become single notes. Some extended sustains become non-sustains. It uses only the first 4 frets to play.
+### Easy
+Easy is the easiest to play. Rhythms are even more simplified, and there are generally only 1/4 the notes from expert. Chords become single notes, and some extended sustains become non-sustains. It uses only the first 3 frets to play.
 ## Lyrics
 Lyrics show in-game and are timed to the music, ideally timed to the syllable.
 ## Drums
