@@ -1,4 +1,4 @@
-<!-- TITLE: Moonscraper -->
+<!-- TITLE: MoonScraper -->
 <!-- SUBTITLE: How to chart in  MoonScraper -->
 
 ## What’s on the screen
