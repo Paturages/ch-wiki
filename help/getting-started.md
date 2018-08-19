@@ -1,7 +1,7 @@
 <!-- TITLE: Getting Started -->
 <!-- SUBTITLE: A quick summary of Getting Started -->
 
-To get started, first [download the game](http://clonehero.net/download). You will need to extract it using a program like [7Zip](https://www.7-zip.org/download.html) or [WinRar](www.win-rar.com/download.html). The folder that you extracted contains all the game files and is also where you insert your songs, under the `Songs` folder.
+To get started, first [download the game](http://clonehero.net/download). You will need to extract it using a program like [7Zip](https://www.7-zip.org/download.html) or [WinRar](https://www.win-rar.com/download.html). The folder that you extracted contains all the game files and is also where you insert your songs, under the `Songs` folder.
 
 **You cannot move the `Clone Hero.exe` file outside of the folder.** Instead, you can create a shortcut by right-click dragging the executable to the desktop, then clicking `Create Shortcut Here`.
 
