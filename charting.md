@@ -191,14 +191,11 @@ diff_bass_real_22
 ```
 delay
 playlist_track
-multiplier_note
 preview_start_time
 icon
 album_track
 video_start_time
-sysex_open_bass
 five_lane_drums
-drum_fallback_blue
 ```
 #### Example
 An example song.ini looks like:
