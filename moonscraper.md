@@ -1,7 +1,8 @@
 <!-- TITLE: Moonscraper -->
 <!-- SUBTITLE: How to chart in  Moonscraper -->
 ## Getting Started
-<img src="/uploads/moonscraper/moonscraper-default.png" width="40%">
+<img src="/uploads/moonscraper/moonscraper-default.png" width="40%" />
+
 ## What’s on the screen
 ## Tools
 ## Menus
