@@ -1,7 +1,7 @@
 <!-- TITLE: Moonscraper -->
 <!-- SUBTITLE: How to chart in  Moonscraper -->
 ## Getting Started
-![Moonscraper Default](/uploads/moonscraper/moonscraper-default.png "Moonscraper Default")
+![Moonscraper Default](/uploads/moonscraper/moonscraper-default.png "Moonscraper Default" =250px)
 ## What’s on the screen
 ## Tools
 ## Menus
