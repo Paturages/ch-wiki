@@ -19,6 +19,7 @@ HOPOs have a glowing white top. The rest of the gem is colored with the correspo
 
 HOPOs are used when notes come in rapid succession, and are always have different set of notes than the ones before. To play a HOPO, you can do so like Strums. But, HOPOs can be played differently.
 If you have successfully hit the note before a HOPO, the HOPO can be played without pressing on the strumbar. If you miss a note in a pattern of consecutive HOPO notes, you will have to strum and hit at least one HOPO note like a Strum note, so you regain your note streak and can play the rest of the HOPOs without touching the strumbar again.
+The "Pull-Off" part of HOPOs refers to a technique called **"anchoring"**, which you can learn about in this article as well.
 ### Taps
 **Tap** notes are another type of note. To play a Tap, press the fret or pull-off from another fret. 
 ![Tap](/uploads/notes/tap.png "Tap"){.align-right}
