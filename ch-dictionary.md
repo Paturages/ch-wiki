@@ -1,7 +1,6 @@
 <!-- TITLE: Clone Hero Dictionary -->
 <!-- SUBTITLE: A quick summary of Clone Hero Dictionary -->
 
-# Header
 # Notes, note types and patterns
 ## Note types
 In Clone Hero, there are 5 different **coloured** notes, also called gems or frets: green, red, yellow, blue, and orange. There is also a purple note that is a line across the highway, called an Open Note. It is played by strumming while no frets are held on the controller. Open Notes are typically the lowest note heard in a song, then the frets are in ascending order from lower on the neck (green) to higher (orange).
