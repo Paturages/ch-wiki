@@ -19,11 +19,7 @@ Strums are used in charts when the notes are “new,” as there is a noticeable
 HOPOs have a glowing white top. The rest of the gem is colored with the corresponding fret color. 
 
 HOPOs are used when notes come in rapid succession, and are always have different set of notes than the ones before. To play a HOPO, you can do so like Strums. But, HOPOs can be played differently.
-
-If you successfully “hit” the note before:
-* All HOPOs are played by pressing the colored fret (no strumming).
-* Hammer-Ons can be played by pressing the fret, while keeping the previous fret held down, or not.
-* Pull-Offs can be played by releasing the higher fret and having the HOPO fret held down when released (this is also called Anchoring).
+If you have successfully hit the note before a HOPO, the HOPO can be played without pressing on the strumbar. If you miss a note in a pattern of consecutive HOPO notes, you will have to strum and hit at least one HOPO note like a Strum note, so you regain your note streak and can play the rest of the HOPOs without touching the strumbar again.
 ### Taps
 Tap notes are another type of note. To play a Tap, press the fret or pull-off from another fret. 
 ![Tap](/uploads/notes/tap.png "Tap"){.align-right}
