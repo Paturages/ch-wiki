@@ -7,7 +7,7 @@ In Clone Hero, there are 5 different **coloured** notes, also called gems or fre
 
 There are 3 different types of notes: Strums, HOPOs, and Taps.
 ### Strums
-Strums are the most common note found in charts. To play a Strum, hold down the corresponding fret and press up or down the strum bar once.
+**Strums** are the most common note found in charts. To play a Strum, hold down the corresponding fret and press up or down the strum bar once.
 ![Strum](/uploads/notes/strum.png "Strum"){.align-right}
 Strums have a black ring with a white top. The rest of the gem is colored with the corresponding fret color.
 
@@ -20,12 +20,13 @@ HOPOs have a glowing white top. The rest of the gem is colored with the correspo
 HOPOs are used when notes come in rapid succession, and are always have different set of notes than the ones before. To play a HOPO, you can do so like Strums. But, HOPOs can be played differently.
 If you have successfully hit the note before a HOPO, the HOPO can be played without pressing on the strumbar. If you miss a note in a pattern of consecutive HOPO notes, you will have to strum and hit at least one HOPO note like a Strum note, so you regain your note streak and can play the rest of the HOPOs without touching the strumbar again.
 ### Taps
-Tap notes are another type of note. To play a Tap, press the fret or pull-off from another fret. 
+**Tap** notes are another type of note. To play a Tap, press the fret or pull-off from another fret. 
 ![Tap](/uploads/notes/tap.png "Tap"){.align-right}
 Taps have are slightly darker and transparent.
 You may play Tap notes like you would play Strums, but you do not necessarily need to use the strumbar at all with Tap notes.
 ### Opens
-Open notes are the lowest note. To play an Open Strum, simply press the strum bar with no frets pressed down. To play an Open HOPO with the previous note hit, just release all frets.
+**Open** notes are the lowest note. To play an Open Strum, simply press the strum bar with no frets pressed down. To play an Open HOPO with the previous note hit, just release all frets.
 ![Open Both](/uploads/notes/open-both.png "Open Both"){.align-right}
-Open Strums are a solid highway-wide purple bar. Open HOPOs are the same, but have a glowing edge. 	
+Open Strums are a solid highway-wide purple bar. Open HOPOs are the same, but have a glowing edge. 
+
 
