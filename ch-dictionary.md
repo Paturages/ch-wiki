@@ -39,3 +39,4 @@ Open Strums are a solid long purple bar.
 Open HOPOs have a glowing edge. 	
  
 ![Open Hopo](/uploads/notes/open-hopo.png "Open HOPO"){.align-right}
+
