@@ -32,7 +32,7 @@ You may play Tap notes like you would play Strums, but you do not necessarily ne
 ### Opens
 Open notes are the lowest note. To play an Open Strum, simply press the strum bar with no frets pressed down. To play an Open HOPO with the previous note hit, just release all frets.
 
-Open Strums are a solid long purple bar. Open HOPOs have a glowing edge. 	
+Open Strums are a solid long purple bar.
 ![Open Strum](/uploads/notes/open-strum.png "Open Strum"){.align-right}
-
+ Open HOPOs have a glowing edge. 	
 ![Open Hopo](/uploads/notes/open-hopo.png "Open HOPO"){.align-right}
