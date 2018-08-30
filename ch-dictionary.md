@@ -43,10 +43,9 @@ Open Strums are a solid highway-wide purple bar. Open HOPOs are the same, but ha
 
 Important to note: the concept of **anchoring** does not apply to Strum note chords, however still applies to HOPO and Tap note chords.
 ## Sustains
-**Sustains**, also known as "long notes", are notes that require you to hold the coloured note until the sustain is visibly over.
 ![Sustain](/uploads/dictionary/sustain-smol.jpg "Sustain"){.align-right}
+**Sustains**, also known as "long notes", are notes that require you to hold the coloured note until the sustain is visibly over.
 If you stop holding the note early you will not lose your multiplier or note streak, granted you have at least hit the sustain note, however you will miss out on extra points.
-
 The guitar track sound will cut out if you let go of a Sustain note, like it would if you've missed a note.
 # Star Power
 **Star Power (SP)** helps the player score more points by doubling the current multiplier. Star Power notes look similar to regular notes, and represent a spinning star. 
