@@ -74,6 +74,18 @@ Solo sections give points based on your total % of notes hit during the solo sec
 # Advanced techniques and note patterns
 ## Anchoring
 ![Anchoring Example](/uploads/dictionary/anchoring-example.jpg "Anchoring Example"){.align-right}
-**Anchoring** is a slightly counter-intuitive technique where you are able to hold down a lower note, while still hitting the higher note.
-For example, you can hit a blue Strum note, even if you hold a red or yellow or green note, or all of them, as long as you are holding blue and strumming at the correct time.
+**Anchoring** is a slightly counter-intuitive game mechanic, unique to Guitar Hero-type games, where you are able to **hold down a lower note, while still hitting the higher note.**
+For example, you can hit a blue Strum note, even if you hold a green or red or yellow note, or all of the lower notes, as long as you are holding the blue note and strumming at the correct time.
 This makes sense in terms of real guitar play, as you could hold any fret lower than the one you were holding already, and it would not make any difference in the pitch of the note.
+Anchoring allows for many note patterns to be much simpler to play.
+## Strumming techniques
+**Alt-strumming** is alternating up and down presses on the strumbar. This helps hit faster Strum note lines and patterns, when just down or just up strumming is physically impossible because of the speed.
+
+**Rake strumming** is an advanced technique, where the player forms a **rake-like shape** with their strumming hand and hits the strumbar with multiple fingers in one motion. This allows to hit **very** fast strum lines and patterns, where even alt-strumming becomes not enough/physically impossible.
+[Here is a video example of rake strumming.](https://www.youtube.com/watch?v=ubirEUw5vP8)
+## Tapping techniques
+**Tapping** is using your strumming (usually right) hand to hit the frets instead of your fretting (usually left) hand. Tapping is useful on fast repeating note patterns.
+
+**Alt-tapping** is alternating your strumming hand and your fretting hand to hit notes, it allows for more speed and usually less strain on the hands than normal tapping.
+
+**Rake tapping** is used for fast trills where Alt Tapping is not fast enough. The basic concept is similar to Rake Strumming, but two fingers on the right hand tap the fret, one after each other, then a finger from the left-hand taps the fret for 3 consecutive taps. 
