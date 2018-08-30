@@ -75,9 +75,12 @@ Solo sections give points based on your total % of notes hit during the solo sec
 ## Anchoring
 ![Anchoring Example](/uploads/dictionary/anchoring-example.jpg "Anchoring Example"){.align-right}
 **Anchoring** is a slightly counter-intuitive game mechanic, unique to Guitar Hero-type games, where you are able to **hold down a lower note, while still hitting the higher note.**
+
 For example, you can hit a blue Strum note, even if you hold a green or red or yellow note, or all of the lower notes, as long as you are holding the blue note and strumming at the correct time.
 This makes sense in terms of real guitar play, as you could hold any fret lower than the one you were holding already, and it would not make any difference in the pitch of the note.
 Anchoring allows for many note patterns to be much simpler to play.
+
+Anchoring does **NOT** work with Strum chords, however it **does** work with HOPO and Tap note chords.
 ## Strumming techniques
 **Alt-strumming** is alternating up and down presses on the strumbar. This helps hit faster Strum note lines and patterns, when just down or just up strumming is physically impossible because of the speed.
 
