@@ -8,7 +8,9 @@ Most likely, you will be playing Clone Hero with a guitar controller.
 The coloured buttons on the neck of the guitar are called **frets**. The plastic piece that moves in two opposite directions is called the **strumbar**
 You will be using the frets and the strumbar for menu navigation: the green button for confirmation, the red button for cancellation, and the up-down strumbar movements for selecting and navigation.
 The metal part of the guitar that moves up and down in a spring-like motion is called the **whammy bar**.
-# Notes, note types and patterns
+# Notes and note types
+Notes descend down the **highway** towards the **strikeline** on the bottom, which represents the hit window for the notes.
+**Note speed** affects the speed at which the notes descend, but does not affect the actual song speed. Higher note speed spaces the notes out and may help with faster songs.
 ## Note types
 In Clone Hero, there are 5 different **coloured** notes, also called gems or frets: green, red, yellow, blue, and orange. There is also a purple note that is a line across the highway, called an Open Note. It is played by strumming while no frets are held on the controller. Open Notes are typically the lowest note heard in a song, then the frets are in ascending order from lower on the neck (green) to higher (orange).
 
@@ -41,6 +43,28 @@ Open Strums are a solid highway-wide purple bar. Open HOPOs are the same, but ha
 
 Important to note: the concept of **anchoring** does not apply to Strum note chords, however still applies to HOPO and Tap note chords.
 ## Sustains
-Sustains, also known as "long notes", are notes that require you to hold the coloured note until the sustain is visibly over.
+**Sustains**, also known as "long notes", are notes that require you to hold the coloured note until the sustain is visibly over.
 ![Sustain](/uploads/dictionary/sustain-smol.jpg "Sustain"){.align-right}
-If you stop holding the note early you will not miss, granted you have at least hit the sustain, however you will get less points.
+If you stop holding the note early you will not lose your multiplier or note streak, granted you have at least hit the sustain note, however you will miss out on extra points.
+
+The guitar track sound will cut out if you let go of a Sustain note, like it would if you've missed a note.
+# Star Power
+**Star Power (SP)** helps the player score more points by doubling the current multiplier. Star Power notes look similar to regular notes, and represent a spinning star. 
+SP is obtained in **phrases**; each note of the phrase must be hit to obtain. A successful phrase raises the SP Meter by 1/4.
+If a sustain note is in a phrase, **whammying** will gradually increase the meter as well. This is the only use for the whammy in Clone Hero.
+To activate SP, the meter must be at least 1/2 full. A 1/2 filled bar will last for 4 measures of music. 
+# Scoring and stars
+Stars are awarded based on how well you play, like a grade of your performance.
+
+Each note grants 50 points (plus an extra 50 for each note in a chord) and 25 points per beat that a sustain lasts is added to a base score.
+After you hit 10 notes without missing, your **multiplier** will increase, up to 4X. With a 4X multiplier a note would grant 200 points.
+
+Base score is multiplied by your average multiplier to give stars accordingly.
+3 stars = 1.0 average multiplier 
+4 stars = 2.0 average multiplier
+5 stars = 2.8 average multiplier
+6 stars = 3.6 average multiplier
+7 stars = 4.4 average multiplier
+7 stars is roughly equivalent to Rock Band's golden stars.
+
+Solo sections give points based on your total % of notes hit during the solo section. 100% (Perfect Solo!) = 100 points for every note hit, 95-99% (Awesome Solo!) = 50 points for every note, hit, etc.
