@@ -3,7 +3,7 @@
 # Very basics of guitar controls
 Most likely, you will be playing Clone Hero with a guitar controller.
 
-![Les Paul Controls](/uploads/dictionary/les-paul-controls.jpg "Guitar Controls"){.align-right}
+![Les Paul Controls](/uploads/dictionary/les-paul-controls.jpg "Guitar Controls")
 
 The coloured buttons on the neck of the guitar are called **frets**. The plastic piece that moves in two opposite directions is called the **strumbar**
 You will be using the frets and the strumbar for menu navigation: the green button for confirmation, the red button for cancellation, and the up-down strumbar movements for selecting and navigation.
