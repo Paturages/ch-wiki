@@ -2,7 +2,9 @@
 <!-- SUBTITLE: A quick summary of Clone Hero Dictionary -->
 # Very basics of guitar controls
 Most likely, you will be playing Clone Hero with a guitar controller.
+
 ![Les Paul Controls](/uploads/dictionary/les-paul-controls.jpg "Guitar Controls"){.align-right}
+
 The coloured buttons on the neck of the guitar are called **frets**. The plastic piece that moves in two opposite directions is called the **strumbar**
 You will be using the frets and the strumbar for menu navigation: the green button for confirmation, the red button for cancellation, and the up-down strumbar movements for selecting and navigation.
 The metal part of the guitar that moves up and down in a spring-like motion is called the **whammy bar**.
