@@ -1,13 +1,18 @@
 <!-- TITLE: Clone Hero Dictionary -->
 <!-- SUBTITLE: A quick summary of Clone Hero Dictionary -->
-
+# Very basics of guitar controls
+Most likely, you will be playing Clone Hero with a guitar controller.
+![Les Paul Controls](/uploads/dictionary/les-paul-controls.jpg "Guitar Controls"){.align-right}
+The coloured buttons on the neck of the guitar are called **frets**. The plastic piece that moves in two opposite directions is called the **strumbar**
+You will be using the frets and the strumbar for menu navigation: the green button for confirmation, the red button for cancellation, and the up-down strumbar movements for selecting and navigation.
+The metal part of the guitar that moves up and down in a spring-like motion is called the **whammy bar**.
 # Notes, note types and patterns
 ## Note types
 In Clone Hero, there are 5 different **coloured** notes, also called gems or frets: green, red, yellow, blue, and orange. There is also a purple note that is a line across the highway, called an Open Note. It is played by strumming while no frets are held on the controller. Open Notes are typically the lowest note heard in a song, then the frets are in ascending order from lower on the neck (green) to higher (orange).
 
 There are 3 different types of notes: Strums, HOPOs, and Taps.
 ### Strums
-**Strums** are the most common note found in charts. To play a Strum, hold down the corresponding fret and press up or down the strum bar once.
+**Strums** are the most common note found in charts. To play a Strum, hold down the corresponding fret and press up or down the strum bar once when the notes pass the strikeline.
 ![Strum](/uploads/notes/strum.png "Strum"){.align-right}
 Strums have a black ring with a white top. The rest of the gem is colored with the corresponding fret color.
 
@@ -28,6 +33,12 @@ You may play Tap notes like you would play Strums, but you do not necessarily ne
 ### Opens
 **Open** notes are the lowest note. To play an Open Strum, simply press the strum bar with no frets pressed down. To play an Open HOPO with the previous note hit, just release all frets.
 ![Open Both](/uploads/notes/open-both.png "Open Both"){.align-right}
-Open Strums are a solid highway-wide purple bar. Open HOPOs are the same, but have a glowing edge. 
+Open Strums are a solid highway-wide purple bar. Open HOPOs are the same, but have a glowing edge.
+## Chords
+**Chords** are combinations of different notes played **at the same time**. For example, a Strum note chord consisting of a green note and a yellow note will require you to hold the green and yellow buttons at the same time, and press the strumbar when the chord passes the strikeline.
 
+Important to note: the concept of **anchoring** does not apply to Strum note chords, however still applies to HOPO and Tap note chords.
+## Sustains
+Sustains, also known as "long notes", are notes that require you to hold the coloured note until the sustain is visibly over.
 
+If you stop holding the note early you will not miss, granted you have at least hit the sustain, however you will get less points.
