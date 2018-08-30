@@ -35,8 +35,9 @@ The "Pull-Off" part of HOPOs refers to a technique called **"anchoring"**, which
 Taps have are slightly darker and transparent.
 You may play Tap notes like you would play Strums, but you do not necessarily need to use the strumbar at all with Tap notes.
 ### Opens
-**Open** notes are the lowest note. To play an Open Strum, simply press the strum bar with no frets pressed down. To play an Open HOPO with the previous note hit, just release all frets.
 ![Open Both](/uploads/notes/open-both.png "Open Both"){.align-right}
+**Open** notes are the lowest note. To play an Open Strum, simply press the strum bar with no frets pressed down. To play an Open HOPO with the previous note hit, just release all frets.
+
 Open Strums are a solid highway-wide purple bar. Open HOPOs are the same, but have a glowing edge.
 ## Chords
 **Chords** are combinations of different notes played **at the same time**. For example, a Strum note chord consisting of a green note and a yellow note will require you to hold the green and yellow buttons at the same time, and press the strumbar when the chord passes the strikeline.
@@ -50,8 +51,10 @@ The guitar track sound will cut out if you let go of a Sustain note, like it wou
 # Star Power
 **Star Power (SP)** helps the player score more points by doubling the current multiplier. Star Power notes look similar to regular notes, and represent a spinning star. 
 SP is obtained in **phrases**; each note of the phrase must be hit to obtain. A successful phrase raises the SP Meter by 1/4.
-If a sustain note is in a phrase, **whammying** will gradually increase the meter as well. This is the only use for the whammy in Clone Hero.
-To activate SP, the meter must be at least 1/2 full. A 1/2 filled bar will last for 4 measures of music. 
+If a sustain note is in a phrase, **whammying** will gradually increase the meter as well, while turning the sustain cyan. This is the only use for the whammy in Clone Hero.
+
+To activate SP, the meter must be at least 1/2 full. A 1/2 filled bar will last for 4 measures of music.
+While SP is active, every note will turn cyan.
 # Scoring and stars
 Stars are awarded based on how well you play, like a grade of your performance.
 
@@ -67,3 +70,10 @@ Base score is multiplied by your average multiplier to give stars accordingly.
 7 stars is roughly equivalent to Rock Band's golden stars.
 
 Solo sections give points based on your total % of notes hit during the solo section. 100% (Perfect Solo!) = 100 points for every note hit, 95-99% (Awesome Solo!) = 50 points for every note, hit, etc.
+
+# Advanced techniques and note patterns
+## Anchoring
+![Anchoring Example](/uploads/dictionary/anchoring-example.jpg "Anchoring Example"){.align-right}
+**Anchoring** is a slightly counter-intuitive technique where you are able to hold down a lower note, while still hitting the higher note.
+For example, you can hit a blue Strum note, even if you hold a red or yellow or green note, or all of them, as long as you are holding blue and strumming at the correct time.
+This makes sense in terms of real guitar play, as you could hold any fret lower than the one you were holding already, and it would not make any difference in the pitch of the note.
