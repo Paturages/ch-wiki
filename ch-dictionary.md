@@ -5,7 +5,7 @@ Most likely, you will be playing Clone Hero with a guitar controller.
 
 ![Les Paul Controls](/uploads/dictionary/les-paul-controls.jpg "Guitar Controls")
 
-The coloured buttons on the neck of the guitar are called **frets**. The plastic piece that moves in two opposite directions is called the **strumbar**
+The coloured buttons on the neck of the guitar are called **frets**. The plastic piece that moves in two opposite directions is called the **strumbar**.
 You will be using the frets and the strumbar for menu navigation: the green button for confirmation, the red button for cancellation, and the up-down strumbar movements for selecting and navigation.
 The metal part of the guitar that moves up and down in a spring-like motion is called the **whammy bar**.
 # Notes and note types
@@ -28,7 +28,8 @@ HOPOs have a glowing white top. The rest of the gem is colored with the correspo
 
 HOPOs are used when notes come in rapid succession, and are always have different set of notes than the ones before. To play a HOPO, you can do so like Strums. But, HOPOs can be played differently.
 If you have successfully hit the note before a HOPO, the HOPO can be played without pressing on the strumbar. If you miss a note in a pattern of consecutive HOPO notes, you will have to strum and hit at least one HOPO note like a Strum note, so you regain your note streak and can play the rest of the HOPOs without touching the strumbar again.
-The "Pull-Off" part of HOPOs refers to a technique called **"anchoring"**, which you can learn about in this article as well.
+
+The "Pull-Off" part of HOPOs refers to a technique called [**anchoring**](#anchoring).
 ### Taps
 **Tap** notes are another type of note. To play a Tap, press the fret or pull-off from another fret. 
 ![Tap](/uploads/notes/tap.png "Tap"){.align-right}
