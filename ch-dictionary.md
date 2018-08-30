@@ -42,5 +42,5 @@ Open Strums are a solid highway-wide purple bar. Open HOPOs are the same, but ha
 Important to note: the concept of **anchoring** does not apply to Strum note chords, however still applies to HOPO and Tap note chords.
 ## Sustains
 Sustains, also known as "long notes", are notes that require you to hold the coloured note until the sustain is visibly over.
-
+![Sustain](/uploads/dictionary/sustain.jpg "Sustain"){.align-right}
 If you stop holding the note early you will not miss, granted you have at least hit the sustain, however you will get less points.
