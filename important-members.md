@@ -66,6 +66,7 @@ Paturages is the main developer of this wiki, and wyskoj is the main writer and 
 *  Sygenysis
 ## Other Contributors
 * dizzy
+* Jawbreaker
 * Kevin Y.
 * Toshibro
 * Mac
