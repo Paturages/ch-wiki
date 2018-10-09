@@ -12,12 +12,12 @@ To run Moonscraper, launch `Moonscraper Chart Editor.exe`.
 ## What’s on the screen
 This diagram shows the different sections to the screen.
 
-**A - The Highway - **The highway contains all notes and events for each instrument and difficulty.
-**B - The Toolbar - **The toolbar contains all the necessary tools needed for charting.
-**C - The Dashboard - **The dashboard shows you the amount of notes on that instrument and difficulty. You can also change hyperspeed, song speed, and highway length. Enabling clap and changing step size is located here too.
-**D - The Info Text - **The info text shows you the name of the song, the instrument, and the difficulty being charted.
-**E - The Heading Bar - **The heading bar allows for various actions and settings. [https://wiki.fightthe.pw/moonscraper#menus](Read More).
-**F - The Scrollbar - **The scrollbar allows you to quickly scroll through your song. Blue areas represent Star Power.
+**A - The Highway **The highway contains all notes and events for each instrument and difficulty.
+**B - The Toolbar **The toolbar contains all the necessary tools needed for charting.
+**C - The Dashboard **The dashboard shows you the amount of notes on that instrument and difficulty. You can also change hyperspeed, song speed, and highway length. Enabling clap and changing step size is located here too.
+**D - The Info Text **The info text shows you the name of the song, the instrument, and the difficulty being charted.
+**E - The Heading Bar **The heading bar allows for various actions and settings. [https://wiki.fightthe.pw/moonscraper#menus](Read More).
+**F - The Scrollbar **The scrollbar allows you to quickly scroll through your song. Blue areas represent Star Power.
 ## Tools
 ## Menus
 ## Shortcuts
