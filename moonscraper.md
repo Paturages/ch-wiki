@@ -6,7 +6,7 @@ Moonscraper is a charting program made by Alexander "FireFox" Ong. It features .
 ### How to Install and Run
 To install Moonscraper, join the Discord server to find download links https://discord.gg/jEXWpm5. Under #lastest_version, you will find the download to the latest version. If you want, you can download the latest test build from #test_builds. *Note: These versions of Moonscraper are in development and more prone to crash.*
 
-Once you have downloaded the file, you will need an extracting software to unpackage the .rar ((https://www.7-zip.org/download.html)[7zip] / (https://www.rarlab.com/download.htm)[WinRAR]). Extract the contents into a folder. 
+Once you have downloaded the file, you will need an extracting software to unpackage the .rar ([WinRAR](https://www.rarlab.com/download.htm) / [7Zip](https://www.7-zip.org/download.html)). Extract the contents into a folder. 
 
 To run Moonscraper, launch `Moonscraper Chart Editor.exe`.
 ## What’s on the screen
