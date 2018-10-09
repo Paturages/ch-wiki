@@ -17,7 +17,7 @@ This diagram shows the different sections to the screen.
 **B** - The toolbar contains all the necessary tools needed for charting.
 **C** - The dashboard shows you the amount of notes on that instrument and difficulty. You can also change hyperspeed, song speed, and highway length. Enabling clap and changing step size is located here too.
 **D** - The info text shows you the name of the song, the instrument, and the difficulty being charted.
-**E** - The heading bar allows for various actions and settings. [https://wiki.fightthe.pw/moonscraper#menus](Read More).
+**E** - The heading bar allows for various actions and settings. [Read More](https://wiki.fightthe.pw/moonscraper#menus).
 **F** - The scrollbar allows you to quickly scroll through your song. Blue areas represent Star Power.
 ## Tools
 ## Menus
