@@ -1,7 +1,6 @@
 <!-- TITLE: Moonscraper -->
 <!-- SUBTITLE: How to chart in  Moonscraper -->
 ## Getting Started
-<img src="/uploads/moonscraper/moonscraper-default.png" width="40%" />
 Moonscraper is a charting program made by Alexander "FireFox" Ong. It features .chart and .mid export. 
 
 ### How to Install and Run
