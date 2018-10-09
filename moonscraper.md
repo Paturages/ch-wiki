@@ -10,7 +10,6 @@ Once you have downloaded the file, you will need an extracting software to unpac
 
 To run Moonscraper, launch `Moonscraper Chart Editor.exe`.
 ## What’s on the screen
-<img src="/uploads/moonscraper/screen-elements.png" width="40%" />
 This diagram shows the different sections to the screen.
 
 **A - The Highway - **The highway contains all notes and events for each instrument and difficulty.
