@@ -12,7 +12,7 @@ To run Moonscraper, launch `Moonscraper Chart Editor.exe`.
 ## What’s on the screen
 This diagram shows the different sections to the screen.
 
-**A - The Highway **The highway contains all notes and events for each instrument and difficulty.
+**A** The highway contains all notes and events for each instrument and difficulty.
 **B - The Toolbar **The toolbar contains all the necessary tools needed for charting.
 **C - The Dashboard **The dashboard shows you the amount of notes on that instrument and difficulty. You can also change hyperspeed, song speed, and highway length. Enabling clap and changing step size is located here too.
 **D - The Info Text **The info text shows you the name of the song, the instrument, and the difficulty being charted.
