@@ -20,6 +20,14 @@ This diagram shows the different sections to the screen.
 **E** - The heading bar allows for various actions and settings. [Read More](#menus).
 **F** - The scrollbar allows you to quickly scroll through your song. Blue areas represent Star Power.
 ## Tools
+Moonscraper includes the necessary tools to chart.
+**Cursor** - Select and move notes and events
+**Eraser** - Erase notes and events by click-dragging
+**Note** - Place notes, including taps, forced, and open
+**Star Power** - Defines start and end times for Star Power (SP)
+**BPM** - Defines the tempo, including tempo changes
+**Meter ** - Also known as time signature, defines the current meter
+**Section** - 
 ## Menus
 ## Shortcuts
 ## Understanding the highway
